@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "solveittest"
+  site-url: "https://Gtombri.github.io/solveittest"
+  description: "This is just a test repo using solveit."
+  repo-branch: main
+  repo-url: "https://github.com/Gtombri/solveittest"
